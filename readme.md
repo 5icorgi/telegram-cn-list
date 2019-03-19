@@ -3,7 +3,7 @@
 
 **说明:** 💬 Group  📣 Channel 🤖 Bot  
 
-（不好出现就不放上来了 😂）
+（不好出现就不放上来了）
 ## 资讯
 📣 即刻精选：https://t.me/jike_collection
 
