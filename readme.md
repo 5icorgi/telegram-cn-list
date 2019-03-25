@@ -1,10 +1,10 @@
 # Telegram 中文圈列表
-零散收集的一些中文群组、推送频道、机器人，放于以便查询，按需自取，如有补充欢迎提 issue
-
+零散收集的一些中文群组、推送频道、机器人，放于此以便查询，按需自取，如有补充欢迎提 issue
 **说明:** 💬 Group  📣 Channel 🤖 Bot  
 
 （不好出现就不放上来了）
-## 资讯
+
+<h2 id="1">资讯</h2>
 📣 即刻精选：https://t.me/jike_collection
 
 📣 Solidot 奇客的资讯，重要的东西：https://t.me/solidot
@@ -17,7 +17,7 @@
 
 📣 房地产：https://t.me/fangCN
 
-### 少数派
+<h3 id="1.1">少数派</h3>
 📣 少数派sspai 官方频道：https://t.me/sspai
 
 💬 少数派 sspai 爱好者社群：https://t.me/sspai_group
@@ -70,6 +70,9 @@
 💬 书法练字交流群：https://t.me/lianshufa
 
 📣 书法与练字：https://t.me/xueshufa
+
+## 字幕组
+📣 囧夏字幕组 https://t.me/jxzmz
 
 ## 购物
 📣 赚客吧 有奖一起赚：https://t.me/zuanke8
