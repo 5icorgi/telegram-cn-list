@@ -25,7 +25,7 @@
 
 💬 少数派 sspai 爱好者社群：https://t.me/sspai_group
 
-## 开发
+## 开发、技术交流
 💬 Developer 中文圈：https://t.me/coderzh
 
 ### IDE、Editor
@@ -36,6 +36,10 @@
 💬 Emacs 台灣：https://telegram.me/joinchat/CJbTID9kpknioj9rYv6zgg
 
 💬 Vim 用户：https://t.me/VimHub
+
+### 服务搭建
+
+💬 RSSHub - 万物皆可 RSS https://t.me/rsshub
 
 ## 路由
 💬 加速吧小宝（华硕、网件路由器Merlin OpenWrt 第三方固件讨论群）：https://t.me/xbchat
@@ -76,6 +80,12 @@
 
 ## 字幕组
 📣 囧夏字幕组 https://t.me/jxzmz
+
+## 网络 VPS
+
+💬 DGC非官方群 https://t.me/dgchostsupport
+
+📣 DGChost.NET https://t.me/dgcnews
 
 ## 购物
 📣 赚客吧 有奖一起赚：https://t.me/zuanke8
