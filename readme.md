@@ -41,6 +41,10 @@
 
 💬 RSSHub - 万物皆可 RSS https://t.me/rsshub
 
+### 吐槽
+
+📣 今天份的微软药丸：<https://t.me/microshit> 
+
 ## 路由
 💬 加速吧小宝（华硕、网件路由器Merlin OpenWrt 第三方固件讨论群）：https://t.me/xbchat
 
@@ -94,6 +98,16 @@
 📣 Sync资源更新（只发key） https://t.me/shenkey
 
 📣 Google Drive 资源：人人发资源：https://t.me/gdurl
+
+📣 Btsync keys ：<https://t.me/btsync> 
+
+📣 BTSynChina.com 公告：<https://t.me/btsynchinese> 
+
+## WIKI
+
+📣 中文维基百科社群巡查频道  wikipedia-zh patrol：<https://t.me/wikipedia_zh_patrol> 
+
+
 
 ## 工具
 ### Youtube 视频下载
