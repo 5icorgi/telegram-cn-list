@@ -87,6 +87,8 @@
 
 ## 网络 VPS
 
+💬 GigsGigsCloud.com 意见交流 http://t.me/gigsgigscloudgroup
+
 💬 DGC非官方群 https://t.me/dgchostsupport
 
 📣 DGChost.NET https://t.me/dgcnews
