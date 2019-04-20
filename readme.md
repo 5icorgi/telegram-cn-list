@@ -28,6 +28,8 @@
 ## 开发、技术交流
 💬 Developer 中文圈：https://t.me/coderzh
 
+💬 Rust 众 https://t.me/rust_zh
+
 ### IDE、Editor
 💬 Emacs Use：https://t.me/emacs_usr
 
